@@ -88,10 +88,3 @@ correlation_age
 
 # Scatter plot for Age vs GAD_T
 plot(data$Age, data$GAD_T, main="Scatterplot of Age vs GAD Scores", xlab="Age", ylab="GAD Scores", pch=19)
-
-
-
-
-
-
-
