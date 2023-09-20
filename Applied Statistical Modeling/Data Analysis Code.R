@@ -1,4 +1,4 @@
-setwd("C:/Users/A S Computer/Downloads")
+setwd("C:/")
 
 data = read.csv("anxiety1.csv")
 
